@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class bossCrosshair extends MovieClip {						public function bossCrosshair() {					}	}	}

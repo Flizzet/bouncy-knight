@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;	import flash.events.*;		public class boss1ProjectileTrail extends MovieClip {						public function boss1ProjectileTrail() {		}	}	}

@@ -1,0 +1,37 @@
+accelerometer - #A001
+
+clicked functions - #A002
+
+look at mouse function - #A003
+
+screen rumble function - #A004
+
+level bar - #A005
+
+level up reward function - #A006
+
+cooldowns - #A007
+
+guns - #A008
+
+movement - #A009
+
+health bars - #A010
+
+enemy collision - #A011
+
+player death - #A012
+
+shop - #A013
+
+reset and button - #A014
+
+skills, boss - #A015
+
+enemy - #A016
+
+animations - #A017
+
+key pusher - #A018
+
+children functions - #A019

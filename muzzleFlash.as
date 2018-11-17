@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class muzzleFlash extends MovieClip {						public function muzzleFlash() {			// constructor code		}	}	}

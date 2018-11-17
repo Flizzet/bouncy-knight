@@ -1,0 +1,1 @@
+﻿package {	import flash.display.MovieClip;	import flash.events.Event;	import flash.events.MouseEvent;	public class player_full extends MovieClip	{		public function player_full()		{					}	}}

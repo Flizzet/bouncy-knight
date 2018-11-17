@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class enemy01Projectile extends MovieClip {						public function enemy01Projectile() {			// constructor code		}	}	}

@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class playerMessage extends MovieClip {						public function playerMessage() {			 		}	}	}

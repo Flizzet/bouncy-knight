@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class slowMotionSlash extends MovieClip {						public function slowMotionSlash() {			// constructor code		}	}	}
